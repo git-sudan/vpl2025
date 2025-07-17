@@ -1,0 +1,3 @@
+contest_id,name,match_id,entry_fee,prize_pool,max_participants,created_by,created_at,status
+1d939730-9072-48ab-a9f2-99950a8de329,BASIC10,M001,10,900,100,admin,2025-07-18T00:52:58.008500,cancelled
+0627de52-1de8-42fb-9b15-51ab41066d89,VPL BUMPER 1000,M001,10,450,50,admin,2025-07-18T01:09:46.719002,cancelled
